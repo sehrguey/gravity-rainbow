@@ -100,6 +100,10 @@ article h1 {
 text-align:center;
 
 }
+article h2 a {
+    text-decoration:none;
+  }
+
 article p{
   font-size:.96em;
   text-indent:0em;
