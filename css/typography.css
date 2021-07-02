@@ -130,6 +130,9 @@ font-size: 1.17em;
 p.small {
   font-variant: small-caps;
 }
+.small {
+  font-variant: small-caps;
+}
 
   .blue {
     color:rgb(46,18,121);
